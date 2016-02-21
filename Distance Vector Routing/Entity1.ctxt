@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Entity1()
+comment1.params=p
+comment1.target=void\ update(Packet)
+comment2.params=whichLink\ newCost
+comment2.target=void\ linkCostChangeHandler(int,\ int)
+comment3.params=
+comment3.target=void\ printDT()
+numComments=4
